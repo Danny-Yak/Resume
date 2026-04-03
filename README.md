@@ -91,7 +91,7 @@ In-depth look at project 2 architecture and data handling.
 
 
 <p align="center">
-<img src="assets/images/AI_1.png" width="45%" alt="AI_1 Illustration" />
+<img src="assets/images/AI_1.png" width="30%" alt="AI_1 Illustration" />
 <img src="assets/images/AI_2.png" width="45%" alt="AI_2 Photography" />
 </p>
  
